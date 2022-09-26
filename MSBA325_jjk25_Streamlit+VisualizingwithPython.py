@@ -48,7 +48,7 @@ if agree1:
 # In[56]:
 
 
-df = pd.read_csv("/Users/jose/Desktop/MSBA 325- Data Visualization & Communication/2- Visualizations in Context/Submission- Practicing on Visualizing with Python & Plotly/JosephineKaadou_jjk25_PracticingonVisualizingwithPython&Plotly/world_population.csv")
+df = pd.read_csv("world_population.csv")
 
 
 # In[57]:
